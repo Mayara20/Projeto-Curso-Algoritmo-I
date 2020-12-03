@@ -5,4 +5,5 @@ numero = prompt("Digite um numero: ")
 
 alert (nome + " : " + numero)
 
+
 document.getElementById("paragrafo").innerText = nome + " : " + numero
