@@ -1,7 +1,7 @@
 
 
 function acaobotao() {
-    var nome,idade,limite,contador
+    var nome,idade,limite,contador;
     limite = prompt("Digite a quantidade de vezes que sera calculado: ")
     contador = 0 
     while (contador < limite) {
