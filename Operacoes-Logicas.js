@@ -10,7 +10,7 @@ Media = parseInt(nota01) + parseInt(nota02) /2;
 
 if (Media >= 5)
   passou = true;
-if (passou = Media >= 8)
+if (passou = Media >= 7)
   alert("Aprovado!" + nome)
 else 
   alert("Reprovado!" + nome)
